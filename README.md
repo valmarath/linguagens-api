@@ -2,7 +2,7 @@
 
 Este é o segundo projeto desenvolvido durante a Imersão Java da [Alura](https://www.alura.com.br/). 
 
-O projeto consiste em construir uma API REST que disponilizará informações (nome, ranking, logo) referentes a algumas linguagens de programação. A aplicação tem como base a utilização do Spring Boot (Spring Framework), bando de dados NoSQL (mongoDB) e posterior utilização do Docker para criação da imagem do projeto e deploy (feito na plataforma Fly.io, mas retirado do ar para evitar custos😅).
+O projeto consiste em construir uma API REST que disponilizará informações (nome, ranking, logo) referentes a algumas linguagens de programação. A aplicação tem como base a utilização do Spring Boot (Spring Framework), banco de dados NoSQL (mongoDB) e posterior utilização do Docker para criação da imagem do projeto e deploy (feito na plataforma Fly.io, mas retirado do ar para evitar custos😅).
 
 Além da funcionalidade "base" da aplicação, que está descrita acima, também foram propostos alguns desafios durante a imersão. Dentre os desafios propostos, foi possível realizar com sucesso:
 <br/><br/>
